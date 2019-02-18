@@ -1,0 +1,25 @@
+body {
+    padding-top: 5rem;
+}
+
+.col span.blk{
+    display: block;
+}
+
+.required{
+    color: red;
+}
+
+#btn{
+    background: #4286f4;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+
+}
+
+#contact_form label, span.blk{
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+}
